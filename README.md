@@ -45,7 +45,7 @@ client.UseDotNetXmlSerializer();
 
 ### Features
 
-* Assemblies for .NET 4.5.2 and .NET Standard 2.0
+* Assemblies for .NET 4/.NET 4.5.2 and .NET Standard 2.0
 * Easy installation using [NuGet](http://nuget.org/packages/RestSharp) for most .NET flavors (signed)
 * Automatic XML and JSON deserialization
 * Supports custom serialization and deserialization via ISerializer and IDeserializer
